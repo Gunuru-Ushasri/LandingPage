@@ -16,4 +16,7 @@ A responsive and visually appealing product landing page built with **React** an
 ## 🛠️ Tech Stack
 
 - **React** (Functional Components)
-- **Tailwind CSS** 
+- **Tailwind CSS**
+  
+## Project Link
+https://landing-page-pearl-eight-48.vercel.app
